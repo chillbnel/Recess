@@ -23,3 +23,7 @@ Deployed website URL: https://letsplay20181210012505.azurewebsites.net/
 ## DB SCHEMA
 
 ![Schema](https://github.com/chillbnel/Recess/blob/master/DBSchemaRev1.jpg)
+
+## Wireframes
+
+![Schema](https://github.com/chillbnel/Recess/blob/master/letsplayWF.png)
