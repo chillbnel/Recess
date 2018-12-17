@@ -19,3 +19,7 @@ In order to minimize merge conflicts, our team worked on a beta branch that was 
 ## SOLUTION
 
 Deployed website URL: https://letsplay20181210012505.azurewebsites.net/
+
+## DB SCHEMA
+
+![Schema](https://github.com/chillbnel/Recess/blob/master/DBSchemaRev1.jpg)
