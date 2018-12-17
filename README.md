@@ -1,6 +1,6 @@
 # Recess
 
-401 Final Project by Jeff Weng, Richard Jimmenz, Carlos Cadena and Brian Nelson
+401 Final Project by Jeff Weng, Richard Jimenez, Carlos Cadena and Brian Nelson
 
 ## DESCRIPTION
 
